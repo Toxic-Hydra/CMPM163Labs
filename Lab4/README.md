@@ -19,9 +19,9 @@ var t = loader.load("normal maps/176.jpg");
 
 ### Answers to 24
 Depending on the renderer, the following formula may use a ceiling or a floor to handle rounding.
-..* A: to get the x value of a pixel from the texture: u * 8 (u * textureWidth)
-..* B: to get the y value of a pixel from the texture: v * 8 (v * textureHeight)
-..* C: the uv: (0.375, 0.25) correspond to a white pixel.
+* A: to get the x value of a pixel from the texture: u * 8 (u * textureWidth)
+* B: to get the y value of a pixel from the texture: v * 8 (v * textureHeight)
+* C: the uv: (0.375, 0.25) correspond to a white pixel.
 
 ### Video
 
