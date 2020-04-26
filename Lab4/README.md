@@ -25,6 +25,4 @@ Depending on the renderer, the following formula may use a ceiling or a floor to
 
 ### Video
 
-
-<a href="https://drive.google.com/file/d/1ZEzh1JWLMO3BvghageW-mQJ5Wl4bgbio/view?usp=sharing" target="_blank"><img src="http://img.youtube.com/vi/1ZEzh1JWLMO3BvghageW-mQJ5Wl4bgbio/0.jpg" 
-alt="BASED" width="240" height="180" border="10" /></a>
+[Video Link](https://drive.google.com/file/d/1ZEzh1JWLMO3BvghageW-mQJ5Wl4bgbio/view?usp=sharing)
