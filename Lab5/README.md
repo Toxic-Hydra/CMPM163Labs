@@ -9,11 +9,9 @@ Lastly' I thought it would be fun to add ramps and then remove the players kart 
 [Vanilla Part A Video](https://drive.google.com/file/d/13dNqeJ9I1hZARFhZXwmiiuedjkM8pUN5/view?usp=sharing)
 
 # Three.js particles part B
-[Vanilla Part B Video, just a particle explosion.]
-(https://drive.google.com/file/d/1HL2yQH-7ERmMitmN2FJ3DW_iFaxjvTV2/view?usp=sharing)
+[Vanilla Part B Video, just a particle explosion.](https://drive.google.com/file/d/1HL2yQH-7ERmMitmN2FJ3DW_iFaxjvTV2/view?usp=sharing)
 
 # Three.js custom
 For my own custom particle animation I decided to mimic an old windows screensaver effect, 
 The Starfield simulation with a few extra's courtesy of part A.
-[Cool Epic Video]
-(https://drive.google.com/file/d/1C5cccpCwEYokBR63p1CJxC9e9zNi5lIx/view?usp=sharing)
+[Cool Epic Video](https://drive.google.com/file/d/1C5cccpCwEYokBR63p1CJxC9e9zNi5lIx/view?usp=sharing)
