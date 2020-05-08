@@ -1,7 +1,7 @@
 # Lab 6
 
 ### Corrected Aspect Texture
-![cool](images/screenshot1.PNG)
+![cool](image/screenshot1.PNG)
 
 ### Circle Texture Effect
 [Shadertoy Link](https://www.shadertoy.com/view/WdXBDS)
