@@ -16,5 +16,7 @@ Values less than 0.5 are blank zones where no building is spawned to decrease th
 Values less than 0.4 are grass zones and are represented by a grassy texture (its so far away it just kinda shows as a green square zone).
 Values less than 0.3 are considered lake zones and are filled in with a light blue plane.
 
-I was not contacted back by my partner which means there was not much we could teach each other.
-I will update this area if I they contact me since there are still days left before submission.
+My Partner did Part 1, the unity version of this assignment.
+They told me that for them the difficult part was optimizing the number of buildings to prevent unity from lagging.
+The most interesting part to them was seeing the variations perlin noise was able to give to their scene.
+We did not really help each other out in this lab. We were both able to work on it without issues.
